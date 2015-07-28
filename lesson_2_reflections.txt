@@ -1,2 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
+
 	A new .git file gets created. This file is where git stores all its data.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area is a space where changes are going to happen. You can choose whether or not to save the changes you made.
