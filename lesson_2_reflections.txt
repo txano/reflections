@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+	A new .git file gets created. This file is where git stores all its data.
